@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Buoi4/1.0.0": {
+        "dependencies": {
+          "SomeCode": "1.0.0"
+        },
+        "runtime": {
+          "Buoi4.dll": {}
+        }
+      },
+      "SomeCode/1.0.0": {
+        "runtime": {
+          "SomeCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SomeCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

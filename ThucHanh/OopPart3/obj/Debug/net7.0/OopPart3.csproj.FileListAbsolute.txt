@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.AssemblyInfo.cs
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/ThucHanh/OopPart3/bin/Debug/net7.0/OopPart3
+/workspaces/codespaces-blank/ThucHanh/OopPart3/bin/Debug/net7.0/OopPart3.deps.json
+/workspaces/codespaces-blank/ThucHanh/OopPart3/bin/Debug/net7.0/OopPart3.runtimeconfig.json
+/workspaces/codespaces-blank/ThucHanh/OopPart3/bin/Debug/net7.0/OopPart3.dll
+/workspaces/codespaces-blank/ThucHanh/OopPart3/bin/Debug/net7.0/OopPart3.pdb
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.dll
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/refint/OopPart3.dll
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.pdb
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/OopPart3.genruntimeconfig.cache
+/workspaces/codespaces-blank/ThucHanh/OopPart3/obj/Debug/net7.0/ref/OopPart3.dll
