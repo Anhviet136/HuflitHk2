@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/bin/Debug/net7.0/Buoi3
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/bin/Debug/net7.0/Buoi3.deps.json
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/bin/Debug/net7.0/Buoi3.runtimeconfig.json
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/bin/Debug/net7.0/Buoi3.dll
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/bin/Debug/net7.0/Buoi3.pdb
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.AssemblyInfo.cs
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.dll
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/refint/Buoi3.dll
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.pdb
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/Buoi3.genruntimeconfig.cache
+/workspaces/codespaces-blank/HuflitHk2/Buoi3/obj/Debug/net7.0/ref/Buoi3.dll

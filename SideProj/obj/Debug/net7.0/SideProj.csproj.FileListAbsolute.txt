@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.AssemblyInfo.cs
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/SideProj/bin/Debug/net7.0/SideProj
+/workspaces/codespaces-blank/SideProj/bin/Debug/net7.0/SideProj.deps.json
+/workspaces/codespaces-blank/SideProj/bin/Debug/net7.0/SideProj.runtimeconfig.json
+/workspaces/codespaces-blank/SideProj/bin/Debug/net7.0/SideProj.dll
+/workspaces/codespaces-blank/SideProj/bin/Debug/net7.0/SideProj.pdb
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.dll
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/refint/SideProj.dll
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.pdb
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/SideProj.genruntimeconfig.cache
+/workspaces/codespaces-blank/SideProj/obj/Debug/net7.0/ref/SideProj.dll
